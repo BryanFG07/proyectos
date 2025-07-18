@@ -125,11 +125,12 @@ Funciona en entornos **sin conexión a internet** y permite sincronización post
 - **Red:** Retrofit + Gson
 - **Sincronización:** API REST vía HTTPS
 - **Almacenamiento temporal:** Storage Access
+- **Arquitectura: ** MVVM (Model-View-ViewModel)
 
 ### 🧠 Rol y Responsabilidades
 
 **Rol:** Android Developer  
-- Arquitectura offline/online  
+- Arquitectura del proyecto  
 - Procesamiento de imágenes y sincronización  
 - Comunicación con API REST
 - Optimización de rendimiento para diferentes dispositivos.
