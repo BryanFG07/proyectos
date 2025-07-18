@@ -125,7 +125,7 @@ Funciona en entornos **sin conexión a internet** y permite sincronización post
 - **Red:** Retrofit + Gson
 - **Sincronización:** API REST vía HTTPS
 - **Almacenamiento temporal:** Storage Access
-- **Arquitectura: ** MVVM (Model-View-ViewModel)
+- **Arquitectura:** MVVM (Model-View-ViewModel)
 
 ### 🧠 Rol y Responsabilidades
 
